@@ -1,8 +1,7 @@
 {
   "name": "is-digit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check something is digit",
-  "main": "index.js",
   "jest": {
     "verbose": true
   },

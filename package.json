@@ -1,0 +1,34 @@
+{
+  "name": "is-digit",
+  "version": "1.0.0",
+  "description": "Check something is digit",
+  "main": "index.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "repository": "dangvanthanh/is-digit",
+  "author": {
+    "name": "Dang Van Thanh",
+    "email": "dangvanthanh@dangthanh.org",
+    "url": "dangthanh.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "digit"
+  ],
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}

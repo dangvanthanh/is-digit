@@ -1,12 +1,9 @@
 {
   "name": "is-digit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check something is digit",
-  "jest": {
-    "verbose": true
-  },
   "scripts": {
-    "test": "jest"
+    "test": "tape test"
   },
   "license": "MIT",
   "repository": "dangvanthanh/is-digit",
@@ -18,9 +15,6 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "scripts": {
-    "test": "jest"
-  },
   "files": [
     "index.js"
   ],
@@ -28,6 +22,6 @@
     "digit"
   ],
   "devDependencies": {
-    "jest": "^18.1.0"
+    "tape": "^4.6.3"
   }
 }

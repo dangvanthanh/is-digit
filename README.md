@@ -2,17 +2,11 @@
 
 > Check something is digit
 
-
 ## Install
 
 ```bash
-# yarn (recommed)
-$ yarn add is-digit
-
-# npm
 $ npm install --save is-digit
 ```
-
 
 ## Usage
 
@@ -26,7 +20,6 @@ isDigit(' ')
 isDigit(8)
 //=> true
 ```
-
 
 ## API
 
